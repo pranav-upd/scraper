@@ -1,11 +1,9 @@
 beautifulsoup4==4.9.3
 certifi==2020.12.5
 chardet==4.0.0
-gmpy2 @ file:///C:/WINDOWS/system32/gmpy2-2.0.8-cp39-cp39-win_amd64.whl
 idna==2.10
 lxml==4.6.2
 MechanicalSoup==1.0.0
-mpmath==1.2.1
 requests==2.25.1
 six==1.15.0
 soupsieve==2.2
