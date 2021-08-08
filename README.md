@@ -26,7 +26,7 @@ https://www.python.org/downloads/. Instructions are given on installing for each
 ## RUNNING
 
 Once you have python and the libraries set up, you can run it using 'python scraper.py'. This will automatically retrieve
-the category list and start building the csv files and downloading the images. Make sure to run scaper,py in a subdirectory of
+the category list and start building the csv files and downloading the images. Make sure to run scaper.py in a subdirectory of
 your choice since it retrieves/generates 1000+ files (including images and csv files). It would clutter the desktop very fast, so
 please avoid running it on the desktop.
 
